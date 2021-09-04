@@ -217,11 +217,12 @@ img {
   height: 1px;
   background-color: #303030;
   margin-right: 40px;
-  transform: rotate(270deg);
+
+  transform: rotate(-90deg);
 }
 
 .hero-item {
-  transform: rotate(270deg);
+  transform: rotate(-90deg);
 }
 
 .hero-item:not(:last-child) {
